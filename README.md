@@ -3,7 +3,7 @@
 <br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=29riyasaxena)](https://github.com/29riyasaxena/github-readme-stats)
 <br/>
-[![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=29riyasaxena)](https://github.com/29riyasaxena/github-readme stats&&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=29riyasaxena&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=29riyasaxena&layout=compact)](https://github.com/29riyasaxena/github-readme-stats)
 <!---
