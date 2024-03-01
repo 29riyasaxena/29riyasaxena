@@ -1,4 +1,4 @@
-Exploring the intersections of data and geography to understand our world on a deeper level."
+🌐 Exploring the intersections of data and geography to understand our world on a deeper level. 
 <!---<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=29riyasaxena.29riyasaxena)
 <br/>
